@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 My recent works:
 
-⚡ TTS: https://github.com/Ataullha/how-to-run-a-tts-model <br>
+<!-- ⚡ TTS: https://github.com/Ataullha/how-to-run-a-tts-model <br> -->
 
 
 ## GitHub Stats:
