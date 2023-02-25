@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 My recent works:
 
 ⚡ hosting a large scale TTS model in hugging face spaces <br>
-⚡ training a TTS model with 4 hours+ audio data in google colab <br>
+⚡ training a TTS model with 4 hours+ audio data in google colab free version <br>
 
 
 ## GitHub Stats:
