@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://wa.me/qr/H5OOSXV43WRDM1" target='_blank'>I am a Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently working on TTS For Low Resource Languages <br>
+🔭 I’m currently working on LRL TTS <br>
 🌱 I’m currently learning DS, MERN <br>
 💬 Ask me about: Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
 My recent works:
 
-<!-- ⚡ TTS: https://github.com/Ataullha/how-to-run-a-tts-model <br> -->
+⚡ hosting a large scale TTS model in hugging face spaces
+⚡ training a TTS model with 4 hours+ audio data in google colab
 
 
 ## GitHub Stats:
