@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 
 My recent works:
 
-⚡ hosting a large scale TTS model in hugging face spaces <br>
-⚡ training a TTS model with 4 hours+ audio data in google colab free version <br>
+🤟 hosting a large scale model in hugging face spaces <br>
+🤟 training a large scale model in google colab free version <br>
+🤟 statistical ml based image classification <br>
 
 
 ## GitHub Stats:
