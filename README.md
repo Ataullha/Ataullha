@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Md Ataullha </h1>
 
-<h4 align="center"> <a href="https://wa.me/qr/H5OOSXV43WRDM1" target='_blank'>I am an Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
+<h4 align="center"> <a href="https://github.com/Ataullha/Ataullha/raw/main/Md%20Ataullha.pdf" target='_blank'>I am an Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
 <hr>
 <p>
 🔭 I’m currently working on LRL TTS <br>
 🌱 I’m currently learning DS, MERN <br>
 💬 Ask me about: Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-💬 Open for collaborations and interesting projects! <br>
+👯 I’m currently looking to collaborate on any STT, Audio Classification, Chatbot types of project <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull!
 </p>
 
