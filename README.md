@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning DS, MERN <br>
 💬 Ask me about: Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-👯 I’m currently looking to collaborate on any STT, <strike>Audio Classification</strike>, Voice Cloning, OCR, Chatbot types of project <br>
+👯 I’m currently looking to collaborate on any STT, Voice Cloning, OCR, Chatbot types of project <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull!
 </p>
 
