@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: unique name spellings keep life exciting, never dull!
 </p>
 
-My recent works:
+My recent works: <br>
 🤟 sound classificiation using ANN <br>
 🤟 hosting a large scale model in hugging face spaces <br>
 🤟 training a large scale model in google colab free version <br>
