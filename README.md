@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <hr>
 <p>
 🔭 I’m currently working on LRL TTS <br>
-🌱 I’m currently learning DS, MERN <br>
-💬 Ask me about: Python, ML, Android <br>
+🌱 I’m currently learning Data Sc.<br>
+💬 Ask me about: Life, Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-   👯 I’m currently looking to collaborate on any STT/ ASR, Voice Cloning, OCR, ML Based Attendance System types of project <br>
+   👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Voice Cloning, Chatbot, OCR <!-- ML Based Attendance Systems --> types of project <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull!
 </p>
 
