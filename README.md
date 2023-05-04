@@ -42,17 +42,17 @@ Here are some ideas to get you started:
 <hr>
 <p>
 🔭 I’m currently working on LRL TTS <br>
-🌱 I’m currently learning Data Sc.<br>
+🌱 I’m currently learning SQA Prolly in the next month and a half.<br>
 💬 Ask me about: Life, Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-   👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Voice Cloning, Chatbot, OCR <!-- ML Based Attendance Systems --> types of project <br>
+   👯 I’m currently looking to collaborate on any <!--STT, ASR,--> LLaMA model based <!-- ML Based Attendance Systems --> project <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull!
 </p>
 
 My recent works: <br>
+🤟 will start a funny blogging website
 🤟 sound classificiation using ANN <br>
 🤟 hosting a large scale model in hugging face spaces <br>
-🤟 training a large scale model in google colab free version <br>
 
 
 ## GitHub Stats:
