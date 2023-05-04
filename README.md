@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <hr>
 <p>
 🔭 I’m currently working on LRL TTS <br>
-🌱 I’m currently learning SQA Prolly in the next month and a half.<br>
+🌱 I’m currently learning SQA (Prolly in this month and the next half) <br>
 💬 Ask me about: Life, Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
    👯 I’m currently looking to collaborate on any <!--STT, ASR,--> LLaMA model based <!-- ML Based Attendance Systems --> project <br>
