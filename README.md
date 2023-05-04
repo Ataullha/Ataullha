@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 My recent works: <br>
-🤟 will start a funny blogging website
+🤟 will start a funny blogging website <br>
 🤟 sound classificiation using ANN <br>
 🤟 hosting a large scale model in hugging face spaces <br>
 
