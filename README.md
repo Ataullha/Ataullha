@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <hr>
 <p>
 🔭 I’m currently working on LRL TTS <br>
-🌱 I’m currently learning SQA (Prolly in this month and the next half) <br>
+🌱 I’m currently learning React* (Prolly in this month and the next half) <br>
 💬 Ask me about: Life, Python, ML, Android <br>
 📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
    👯 I’m currently looking to collaborate on any <!--STT, ASR,--> LLaMA model based <!-- ML Based Attendance Systems --> project <br>
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 </p>
 
 My recent works: <br>
+🤟 jsp servlet course management website <br>
 🤟 will start a funny blogging website <br>
 🤟 sound classificiation using ANN <br>
-🤟 hosting a large scale model in hugging face spaces <br>
 
 
 ## GitHub Stats:
