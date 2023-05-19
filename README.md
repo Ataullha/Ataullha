@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 </p>
 
 My recent works: <br>
+🤟 react youtube clone <br>
 🤟 jsp servlet course management website <br>
-🤟 will start a funny blogging website <br>
 🤟 sound classificiation using ANN <br>
 
 
@@ -61,3 +61,7 @@ My recent works: <br>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ataullha&hide_border=true&theme=tokyonight" width="45%" >
 <br />
+
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ataullha&theme=react-dark)
+<br>
+<!-- Ataullha -->
