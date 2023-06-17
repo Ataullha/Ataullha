@@ -45,12 +45,14 @@ Here are some ideas to get you started:
 🔭 I’m currently exploring LRL TTS related things<br>
 🌱 I’m currently learning React* (Prolly in this month and the next half) <br>
 💬 Ask me about: Life, Python, ML, Android <br>
-📫 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-   👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> project <br>
-⚡ Fun fact: unique name spellings keep life exciting, never dull!
+📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
+👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> project <br>
+⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
+💖 <a href="https://www.facebook.com/MAS7246" target='_blank'>Let's collaborate on a project of love and create a beautiful story together. </a>
 </p>
 
 My recent works: <br>
+🤟 <a href='https://github.com/Ataullha/CSE476-Machine-Learning-Lab' target='_blank'>https://github.com/Ataullha/CSE476-Machine-Learning-Lab</a> <br>
 🤟 react youtube clone <br>
 🤟 jsp servlet course management website <br>
 🤟 sound classificiation using ANN <br>
