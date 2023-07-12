@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://github.com/Ataullha/Ataullha/raw/main/Md%20Ataullha.pdf" target='_blank'>I am an Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently exploring LRL TTS related things<br>
-🌱 I’m currently learning React* (Prolly in this month and the next half) <br>
+🔭 I’m currently exploring DL, TTS, ML related things<br>
+🌱 I’m currently learning LLAMA* (Prolly in this month and the next half) <br>
 💬 Ask me about: Tech, Python, ML, Android <br>
 📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
 👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> project <br>
