@@ -54,6 +54,16 @@ My recent works: <br>
 🤟 react youtube clone <br>
 🤟 sound classificiation using ANN <br>
 
+<!--
+🤟 An Android App With Server
+🤟 A MERN App
+🤟 A React API App
+🤟 ML Projects ...
+🤟 Deep Learning Framework tf, torch
+🤟 Springboot Java and React ***
+🤟 AllYouNeed ***
+🤟 CPIsAllYouNeed ***
+-->
 
 ## GitHub Stats:
 
