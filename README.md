@@ -50,9 +50,11 @@ Here are some ideas to get you started:
 </p>
 
 My recent works: <br>
-🤟 <a href='https://github.com/Ataullha/CSE476-Machine-Learning-Lab' target='_blank'>https://github.com/Ataullha/CSE476-Machine-Learning-Lab</a> <br>
-🤟 react youtube clone <br>
-🤟 sound classificiation using ANN <br>
+
+🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
+🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
+🤟 Developed a YouTube clone using React. <br>
+🤟 Sound Classification using Artificial Neural Networks. <br>
 
 <!--
 🤟 An Android App With Server
