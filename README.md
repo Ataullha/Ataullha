@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Detectron2* (Prolly in this month and the next half) <br>
 💬 Ask me about: Tech, Python, ML, Android <br>
 📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-👯 I’m currently looking to collaborate on any <!--STT, ASR,--> Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> project <br>
+👯 I’m currently looking to collaborate on any STT, ASR <!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> competition <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
