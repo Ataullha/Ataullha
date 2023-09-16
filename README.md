@@ -45,9 +45,14 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Detectron2* (Prolly in this month and the next half) <br>
 💬 Ask me about: Tech, Python, ML, Android <br>
 📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-👯 I’m currently looking to collaborate on any STT, ASR <!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> competition <br>
+👯 I’m currently looking to collaborate on any ViT based image classification or YOLOv8 based object detection work<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
+
+My recent publications: <br>
+
+💛 Ataullha, Md and Rahman, Mushfiqur and Rahman, M. Shahidur. -. -. - <br>
+💙 Ataullha, Md and Rabby, Mahedi Hassan and Rahman, Mushfiqur and Azam, Tahsina Bintay. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
 
 My recent works: <br>
 
