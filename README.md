@@ -41,17 +41,18 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://github.com/Ataullha/Ataullha/raw/main/Md%20Ataullha.pdf" target='_blank'>I am an Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently exploring DL, TTS, ML related things<br>
-🌱 I’m currently learning Time Series Analysis* (Prolly in this month and the next half) <br>
-💬 Ask me about: Tech, Python, ML, Android <br>
-📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a> <br>
-👯 I’m currently looking to collaborate on any ViT based image classification or YOLOv8 based object detection work<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
+🔭 I’m currently exploring DL, TTS, ML related things. <br>
+🌱 I’m currently learning Time Series Analysis*. (Prolly in this month and the next half) <br>
+💬 Ask me about: Tech, Python, ML, Android. <br>
+📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a>. <br>
+👯 I’m currently looking to collaborate on any ViT based image classification or YOLOv8 based object detection work.<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
 My recent publications: <br>
 
-💛 Ataullha, Md and Rahman, Mushfiqur and Rahman, M. Shahidur. -. -. - <br>
+🤎 Rahman, M. Shahidur and Ataullha, Md. Predicting Epidemic Outbreaks: Time Series Analysis of Dengue in Bangladesh. September, 2023. [Report] <br>
+💛 Ataullha, Md and Rahman, Mushfiqur and Rahman, M. Shahidur. Submitted to IICT, 2023. [Under Review] <br>
 💙 Ataullha, Md and Rabby, Mahedi Hassan and Rahman, Mushfiqur and Azam, Tahsina Bintay. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
 
 My recent works: <br>
