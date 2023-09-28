@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
-My recent publications: <br>
+✍️ My recent publications: <br>
 
-🤎 MS Rahman, M Ataullha. Predicting Epidemic Outbreaks: Time Series Analysis of Dengue in Bangladesh. September, 2023. [Report] <br>
+🤎 MS Rahman, M Ataullha. Predicting Epidemic Outbreaks: Time Series Analysis of Dengue in Bangladesh. September, 2023. [Overview] <br>
 💛 M Ataullha, M Rahman, MS Rahman. Submitted to ICCIT, 2023. [Under Review] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
 
-My recent works: <br>
+🖥️ My recent works: <br>
 
 🤟 YOLOv8 based object detection. <br>
 🤟 Wav2Vec 2.0 and Transformer based audio classification. <br>
