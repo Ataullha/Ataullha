@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
-✍️ My recent publications: <br>
+✍️ My recent publications*: <br>
 
 🤎 MS Rahman, M Ataullha. Predicting Epidemic Outbreaks: Time Series Analysis of Dengue in Bangladesh. September, 2023. [Overview] <br>
 💛 M Ataullha, M Rahman, MS Rahman. Submitted to ICCIT, 2023. [Under Review] <br>
@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 🤟 CPIsAllYouNeed ***
 -->
 
+ *voluntary work, processidings, workshop presentations are included. See the [mention] section to understand the status.
 ## GitHub Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Ataullha&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
