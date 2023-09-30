@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 🤟 CPIsAllYouNeed ***
 -->
 
- *voluntary work, processidings, workshop presentations are included. See the [mention] section to understand the status.
+<!-- *voluntary work, processidings, workshop presentations are included. See the [mention] section to understand the status. -->
 ## GitHub Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Ataullha&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
