@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 🌱 I’m currently learning basic DL implementation*. (Prolly in this month and the next half) <br>
 💬 Ask me about: Tech, Python, ML, Android. <br>
 📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a>. <br>
-👯 I’m currently looking to collaborate on any ViT based image classification work.<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
+👯 I’m currently looking to collaborate on any NMT work.<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
 ✍️ My recent publications*: <br>
 
-🤎 R Hajong, M Ataullha, RR Akanda, MS Rahman. October, 2023. [Coming Soon] <br>
+<!-- 🤎 R Hajong, M Ataullha, RR Akanda, MS Rahman. October, 2023. [Coming Soon] <br> -->
 🤎 MS Rahman, M Ataullha. Machine Learning-Based Dengue Epidemic Forecasting. September, 2023. [Overview] <br>
 💛 M Ataullha, M Rahman, MS Rahman. Submitted to ICCIT, 2023. [Under Review] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
