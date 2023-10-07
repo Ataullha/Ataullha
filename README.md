@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ✍️ My recent publications*: <br>
 
+🤎 R Hajong, M Ataullha, RR Akanda, MS Rahman. October, 2023. [Coming Soon] <br>
 🤎 MS Rahman, M Ataullha. Machine Learning-Based Dengue Epidemic Forecasting. September, 2023. [Overview] <br>
 💛 M Ataullha, M Rahman, MS Rahman. Submitted to ICCIT, 2023. [Under Review] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
