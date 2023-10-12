@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p>
 🔭 I’m currently exploring DL, TTS, ML related things. <br>
 🌱 I’m currently learning basic DL implementation*. (Prolly in this month and the next half) <br>
-💬 Ask me about: Tech, Python, ML, Android. <br>
+💬 Ask me about: Python, ML, Applied DL, GPU. <br>
 📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a>. <br>
 👯 I’m currently looking to collaborate on any NMT work.<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 🖥️ My recent works: <br>
 
 <!-- 🤟 Doing co-supervision 😄 in a thesis project ... <br> -->
-🤟 Recently achieved 6th position in DL Sprint 2.0 - BUET CSE Fest 2023. [Due to my blunder] <br>
+🤟 Recently achieved 6th position in DL Sprint 2.0 - BUET CSE Fest 2023. [Due to my Blunder] <br>
 🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
 🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
 
