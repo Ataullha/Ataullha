@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 
 🤎 M Ataullha, MS Rahman +2. Submitted. October, 2023. [Under_Review] <br>
 🤎 MS Rahman, M Ataullha +3. Submitted. October, 2023. [Undrer_Review] <br>
-💛 M Ataullha, MS Rahman +1. Submitted. September, 2023. [Under Review] <br>
+💛 M Ataullha, MS Rahman +1. Submitted. September, 2023. [Under_Review] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
+
+**submitted in a conference/ journal*
 
 🖥️ My recent works: <br>
 
