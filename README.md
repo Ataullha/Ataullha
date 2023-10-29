@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 🔭 I’m currently exploring DL, TTS, ML related things. <br>
 🌱 I’m currently learning basic DL implementation*. (Prolly in this month and the next half) <br>
 💬 Ask me about: Python, ML, Applied DL, GPU. <br>
-📧 Reach me at: <a href='mailto:ataullha81@student.sust.edu' target='_blank'>ataullha81@student.sust.edu</a>. <br>
+📧 Reach me at: <a href='mailto:ataullha00@gmail.com' target='_blank'>ataullha00@gmail.com</a>. <br>
 👯 I’m currently looking to collaborate on any NMT work.<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
