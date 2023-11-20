@@ -65,6 +65,13 @@ Here are some ideas to get you started:
 🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
 🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
 
+🤯 Madnesses! <br>
+
+🫡 Will Learn Quran ( Long Term Plan...) <br>
+🫡 Will Teach AI, ML, and LLM in a Bangladeshi Private University <br>
+🫡 Will try to open a YouTube channel wherw wholely talk about AI <br>
+🫡 Will open a simple R&D AI startup soon... <br>
+
 <!--
 🤟 An Android App With Server
 🤟 A MERN App
