@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 🤯 Madnesses! <br>
 
-🫡 Will Learn Quran ( Long Term Plan...) <br>
+🫡 Will publish a paper that cross 100+ citations <br>
 🫡 Will Teach AI, ML, and LLM in a Bangladeshi Private University <br>
-🫡 Will try to open a YouTube channel wherw wholely talk about AI <br>
+🫡 Will try to open a YouTube channel where wholely talk about AI <br>
 🫡 Will open a simple R&D AI startup soon... <br>
 
 <!--
