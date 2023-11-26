@@ -49,13 +49,15 @@ Here are some ideas to get you started:
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
+<!--
+
 ✍️ My recent publications*: <br>
 
 🤎 M Ataullha, MS Rahman +2. Submitted. October, 2023. [Under_Review] <br>
 🤎 MS Rahman, M Ataullha +3. Submitted. October, 2023. [Undrer_Review] <br>
 💛 M Ataullha, M Rahman, MS Rahman. PakhiderChobi: A Comprehensive Dataset for Real-time Detection of Bangladeshi Birds. ICCIT-2023. September, 2023. [Accepted] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
-
+-->
 **submitted in a conference/ journal*
 
 🖥️ My recent works: <br>
@@ -65,12 +67,14 @@ Here are some ideas to get you started:
 🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
 🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
 
+<!--
 🤯 Madnesses! <br>
 
 🫡 Will publish a paper that cross 100+ citations <br>
 🫡 Will Teach AI, ML, and LLM in a Bangladeshi Private University <br>
 🫡 Will try to open a YouTube channel where wholely talk about AI <br>
 🫡 Will open a simple R&D AI startup soon... <br>
+-->
 
 <!--
 🤟 An Android App With Server
