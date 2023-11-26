@@ -57,9 +57,8 @@ Here are some ideas to get you started:
 🤎 MS Rahman, M Ataullha +3. Submitted. October, 2023. [Undrer_Review] <br>
 💛 M Ataullha, M Rahman, MS Rahman. PakhiderChobi: A Comprehensive Dataset for Real-time Detection of Bangladeshi Birds. ICCIT-2023. September, 2023. [Accepted] <br>
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
--->
 **submitted in a conference/ journal*
-
+-->
 🖥️ My recent works: <br>
 
 <!-- 🤟 Doing co-supervision 😄 in a thesis project ... <br> -->
