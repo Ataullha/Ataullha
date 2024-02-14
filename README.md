@@ -62,14 +62,14 @@ Here are some ideas to get you started:
 🖥️ My recent works: <br>
 
 <!-- 🤟 Doing co-supervision 😄 in a thesis project ... <br> -->
-🤟 Landed a fulltime AI Job <br>
+🤟 Landed a fulltime AI Job (😨 Have Probitional Period) <br>
 🤟 Mentored 1+ thesis team from SUST SWE dept. <br>
 🤟 Working as a co-host (host) in SUST DL Engima 1.0 (contribute in mAP script) <br>
 🤟 My first international (foreign) research paper in LREC-COLING'24 got rejected (not final yet) with a good review <br>
-🤟 Submitted the review version for my first journal paper (Q1, IF: 7.7) <br>
-🤟 Submitted a ViT based for fun 😆 in ICEEICT'24 <br>
-🤟 Prseneted my first conference paper in ICCIT'23 <br>
-🤟 Recently achieved 6th position in DL Sprint 2.0 - BUET CSE Fest 2023. [Due to my Blunder] <br>
+🤟 Submitted the review version for my first journal paper (Q1, IF: 7.7) 🐤 <br>
+🤟 Submitted a ViT based clf. paper for fun 😆 in ICEEICT'24 <br>
+🤟 Prseneted my first conference paper in ICCIT'23 😎 <br>
+🤟 Recently achieved 6th position in DL Sprint 2.0 - BUET CSE Fest 2023. [Due to my Blunder 😢] <br>
 🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
 🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
 
