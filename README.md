@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <h4 align="center"> <a href="https://github.com/Ataullha/Ataullha/raw/main/Md%20Ataullha.pdf" target='_blank'>I am an Undergrad Student in Department of Computer Science and Engineering at Shahjalal University of Science and Technology! </a></h4> 
 <hr>
 <p>
-🔭 I’m currently exploring DL, TTS, ML related things. <br>
+🔭 I’m currently exploring HuggingFace, LLM related things. <br>
 🌱 I’m currently learning basic DL implementation*. (Prolly in this month and the next half) <br>
 💬 Ask me about: Python, ML, Applied DL, GPU. <br>
 📧 Reach me at: <a href='mailto:ataullha00@gmail.com' target='_blank'>ataullha00@gmail.com</a>. <br>
-👯 I’m currently looking to collaborate on any ViT based image classification work and QLoRA based work (Please! contact through Facebook).<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
+👯 I’m currently looking to collaborate on any audio clf. based work (Please! contact through Facebook).<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 💙 M Ataullha, MH Rabby, M Rahman, TB Azam. Bengali Document Layout Analysis with Detectron2. August, 2023. [<a href="https://arxiv.org/abs/2308.13769" target="_blank"><strong>Preprint</strong></a>]
 **submitted in a conference/ journal*
 -->
-🖥️ My recent works: <br>
+<!-- 🖥️ My recent works: <br>
 
-<!-- 🤟 Doing co-supervision 😄 in a thesis project ... <br> -->
+🤟 Doing co-supervision 😄 in a thesis project ... <br>
 🤟 Landed a fulltime AI Job (😨 Have Probitional Period) <br>
 🤟 Mentored 1+ thesis team from SUST SWE dept. <br>
 🤟 Working as a co-host (host) in SUST DL Engima 1.0 (contribute in mAP script) <br>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 🤟 Prseneted my first conference paper in ICCIT'23 😎 <br>
 🤟 Recently achieved 6th position in DL Sprint 2.0 - BUET CSE Fest 2023. [Due to my Blunder 😢] <br>
 🤟 [Kaggle Notebook Expert](https://www.kaggle.com/ataullhasaim/code) Recently achieved the status of Kaggle Notebook Expert. <br>
-🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br>
+🤟 [GitHub - CSE476 Machine Learning Lab](https://github.com/Ataullha/CSE476-Machine-Learning-Lab) Repository for my Machine Learning Lab work. <br> -->
 
 <!--
 🤯 Madnesses! <br>
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ataullha&hide_border=true&theme=tokyonight" width="45%" >
 <br />
 
-<img src="https://github.com/Ataullha/Ataullha/assets/53054762/e0cfdd4c-dca0-4dde-8c13-268517a491dc" width="150" height="30" text-align="center">
+<!-- <img src="https://github.com/Ataullha/Ataullha/assets/53054762/e0cfdd4c-dca0-4dde-8c13-268517a491dc" width="150" height="30" text-align="center"> -->
 
 
 <!-- Ataullha -->
