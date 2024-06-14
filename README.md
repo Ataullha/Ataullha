@@ -18,10 +18,10 @@
 
 <p>
 🔭 I’m currently exploring HuggingFace, LLM related things. <br>
-🌱 I’m currently learning basic HuggingFace Audio Course*. (Prolly in this month and the next half) <br>
+🌱 I’m currently learning basic DSA using Python*. (Prolly in this month and the next half) <br>
 💬 Ask me about: Research, ML, Python, Applied DL, Kaggle. <br>
 📧 Reach me at: <a href='mailto:ataullha00@gmail.com' target='_blank'>ataullha00@gmail.com</a>. <br>
-👯 I’m currently looking to collaborate on any audio clf. based work (Please! contact through Facebook).<!-- Audio Classficiation with any SOTA or Transformer based model <!-- LLaMA model based --> <!-- ML Based Attendance Systems --> <br>
+👯 I’m currently looking to collaborate on Time Series Forecasting work (Please! contact through Facebook). <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
