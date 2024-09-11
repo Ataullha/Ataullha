@@ -17,6 +17,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Md Ataullha </h1>
 
 <p>
+⚠️ I RECENTLY UPDATED MY NEW PERSONAL WEBSITE <a href="https://ataullha.github.io/" target="_blank">ataullha.github.io</a> <br>
 🔭 I’m currently exploring HuggingFace, LLM related things. <br>
 🌱 I’m currently learning basic DSA using Python*. (Prolly in this month and the next half) <br>
 💬 Ask me about: Research, ML, Python, Applied DL, Kaggle. <br>
