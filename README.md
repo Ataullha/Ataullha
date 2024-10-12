@@ -17,7 +17,7 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Md Ataullha </h1>
 
 <p>
-⚠️ Recently relase my website <a href="https://ataullha.github.io/" target="_blank">ataullha.github.io</a> <br>
+<!-- ⚠️ -->
 🔭 I’m currently exploring <b> Chatbot </b> related things. <br>
 🌱 I’m currently learning <b> LLM and RAG </b>. (Prolly in this month and the next half) <br>
 💬 Ask me about: <b> Research, ML, Python, Applied DL, Kaggle </b>. <br>
