@@ -24,7 +24,7 @@
 🌱 I’m currently learning <b> LLM and RAG </b>. (Prolly in this month and the next half) <br>
 💬 Ask me about: <b> Research, ML, Python, Applied DL, Kaggle </b>. <br>
 📧 Reach me at: <a href='mailto:ataullha00@gmail.com' target='_blank'>ataullha00@gmail.com</a>. <br>
-👯 I’m currently looking to start my own <b> AI Startup </b> <!-- (Please! contact through Facebook). --> <br>
+👯 I’m currently looking to marry <b> MY Dream Girl </b> <!-- (Please! contact through Facebook). --> <br>
 ⚡ Fun fact: unique name spellings keep life exciting, never dull! <br>
 </p>
 
